@@ -1,3 +1,5 @@
+import "./styles/index.css";
+
 const hello = "Hello World, I am using Webapck";
 const ankur = {
   age: "33",
